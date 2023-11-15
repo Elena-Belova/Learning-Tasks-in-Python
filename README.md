@@ -10,9 +10,10 @@
   <b>Задача:</b><ul><li>Написать программу, которая будет подсчитывать общую стоимость билетов</li></ul> </blockquote></p>
 </details>
 
- [Решение]()
+ [Решение](https://github.com/Elena-Belova/print-Hello-World/blob/3f364fc151a4e27b623eef67d8c9a8fab23718b5/HW%2018.8.19%20conference%20tickets.py)
+ 
 <hr>
-
+:large_blue_diamond:
 
 <hr>
 
