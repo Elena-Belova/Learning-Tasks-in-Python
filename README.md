@@ -1,5 +1,5 @@
 # ![р40](https://github.com/Elena-Belova/print-Hello-World/assets/148638077/e966ff58-250a-4fae-9dc9-3d5907df7c1f) print('Hello World')
-Репозиторий с решениями учебных задач на Python
+Решения небольших учебных задач по основам Python
 <hr>
 
 :small_blue_diamond: Программа "Расчет стоимости билетов на онлайн-конференцию"
