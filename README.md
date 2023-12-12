@@ -10,7 +10,7 @@
   <b>Задача:</b><ul><li>Написать программу, которая будет подсчитывать общую стоимость билетов</li></ul> </blockquote></p>
 </details>
 
- [Решение](https://github.com/Elena-Belova/print-Hello-World/blob/3f364fc151a4e27b623eef67d8c9a8fab23718b5/HW%2018.8.19%20conference%20tickets.py)
+ [Решение](https://github.com/Elena-Belova/print-Hello-World/blob/27554fa7492a40c66274017bd565abd95e4c29d9/HW%2018.8.19%20conference%20tickets.py)
  
 <hr>
 :small_blue_diamond:
@@ -23,6 +23,6 @@
  <p><blockquote><b>Дано:</b><ul><li>словарь per_cent с распределением процентных ставок по вкладам в различных банках (ключ — название банка, значение — процент)</li></ul><b>Задача:</b><ul><li>Написать программу, в результате которой будет сформирован список deposit значений — накопленные средства за год вклада в каждом из банков. На вход программы с клавиатуры вводится сумма money, которую человек планирует положить под проценты.</li><li>Добавить в программу поиск максимального значения и его вывод на экран в формате: Максимальная сумма, которую вы можете заработать — deposit.</li></ul> </blockquote></p>
 </details>
 
- [Решение](https://github.com/Elena-Belova/print-Hello-World/blob/533e64f95bf3dc22b3233ca6993738bbe29e5ac3/HW%2017.7.3%20deposit.py)
+ [Решение](https://github.com/Elena-Belova/print-Hello-World/blob/27554fa7492a40c66274017bd565abd95e4c29d9/HW%2017.7.3%20deposit.py)
  
 <hr>
